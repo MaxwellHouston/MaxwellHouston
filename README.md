@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MaxwellHouston
+- 👋 Hi, I’m Max Houston
 - 👀 I’m interested in beginning a new career in computer coding.
-- 🌱 I’m currently learning Javascript and front end web development
-- 💞️ I’m looking to collaborate on anything new and exciting that will help build my skills and portfolio.
+- 🌱 I’m currently proficient in Javascript, HTML, CSS, React, Redux, Express, Node.js, and SQL.
+- 💞️ I’m looking to learn more languages and skills that will help me start this career in computer coding.
 - 📫 How to reach me maxhouston@gmail.com
 
 <!---
