@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Max Houston
-- 👀 I’m interested in beginning a new career in computer coding.
-- 🌱 I’m currently proficient in Javascript, HTML, CSS, Tailwind, React, Redux, Express, Node.js, and SQL.
-- 💞️ I’m looking to learn more languages and skills that will help me start this career in computer coding.
+- 👀 I’m interested in working on interesting and helpful projects.
+- 🌱 I’m currently proficient in Javascript, Typescript, HTML, CSS, Tailwind, React, Express, Node.js, and SQL.
+- 💞️ I’m looking to learn more coding languages and skills that will help me grow as a programmer.
 - 📫 How to reach me maxhouston@gmail.com
 
 <!---
